@@ -18,6 +18,7 @@ Tools can be used to manage ALM; some of the more popular options include:
 * Atlassian [JIRA](http://atlassian.com/software/jira)
 * CA Technologies [Rally](http://ca.com/us.html)
 * [Thoughtworks](http://thoughtworks.com/products)
+* HP [ALM] (https://software.microfocus.com/en-us/solutions/software-development-lifecycle)
 
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
